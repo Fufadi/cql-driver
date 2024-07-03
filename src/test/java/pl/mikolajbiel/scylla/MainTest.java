@@ -1,4 +1,4 @@
-package org.example;
+package pl.mikolajbiel.scylla;
 
 import org.junit.Test;
 
